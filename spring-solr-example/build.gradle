@@ -31,8 +31,8 @@ dependencies {
 	compile 'org.springframework.boot:spring-boot-starter-data-rest'
 
 	compile 'org.springframework.data:spring-data-solr:2.0.2.RELEASE'
-	compile 'org.apache.solr:solr-core:6.1.0'
-	compile 'org.apache.solr:solr-solrj:6.1.0'
+	compile 'org.apache.solr:solr-core:6.0.1'
+	compile 'org.apache.solr:solr-solrj:6.0.1'
 
     compile 'org.slf4j:slf4j-api:1.7.18'
 

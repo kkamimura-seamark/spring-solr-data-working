@@ -5,4 +5,4 @@
  * @author kamimura
  *
  */
-package jp.co.seamark.example.util;
+package jp.co.seamark.devtools.solr;
